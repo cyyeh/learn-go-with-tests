@@ -3,7 +3,7 @@ Explore the Go language by writing tests
 
 reference: [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
-## Development Flow
+## Development Flow(RED-GREEN-REFACTOR)
 
 - Write a test
 - Make the compiler pass
